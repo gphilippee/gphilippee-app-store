@@ -2,7 +2,6 @@ manifestVersion: 1
 id: gphilippe-sabnzbd
 name: SABnzbd + gluetun
 tagline: The automated Usenet download tool
-icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "1.0.0"
 port: 8080
