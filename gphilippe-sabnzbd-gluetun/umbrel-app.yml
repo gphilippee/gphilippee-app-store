@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: sabnzbd-gluetun
+id: gphilippe-sabnzbd-gluetun
 name: SABnzbd + gluetun
 tagline: The automated Usenet download tool
 icon: https://svgur.com/i/mvA.svg
@@ -26,26 +26,16 @@ description: >-
 
   You can also set up API keys for integration with other apps like Sonarr and Radarr by navigating to the General section in the SABnzbd app.
 
-developer: sabnzbd
-website: https://sabnzbd.org/
-dependencies: []
-repo: https://github.com/gphilippee/sabnzbd-gluetun.git
-support: https://forums.sabnzbd.org/
-port: 9876
-releaseNotes: >-
-  This release includes various bug fixes and performance improvements.
-
-
-  Full release notes are available at https://github.com/sabnzbd/sabnzbd/releases
-permissions:
-  - STORAGE_DOWNLOADS
+developer: Umbrel
+website: https://umbrel.com
+submitter: Umbrel
+submission: https://github.com/gphilippee/gphilippee-app-store
+repo: https://github.com/gphilippee/gphilippee-app-store
+support: https://github.com/gphilippee/gphilippee-app-store/issues
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
 path: ""
 defaultUsername: ""
 defaultPassword: ""
-torOnly: false
-submitter: Parth Jadhav
-submission: https://github.com/getumbrel/umbrel-apps/pull/810
